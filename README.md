@@ -1,7 +1,7 @@
 About
 -----------
-Deezer is an online music streaming service. It allows users to listen to music content from record labels, on various devices online or offline. This project aims to
-emulate UI and integrate the Deezer API and SDK to create a 'pseudo' deezer clone.
+Deezer is an online music streaming service. It enables users to stream online. This project aims to
+engineer a UI and integrate the Deezer API and SDK to create a 'pseudo' deezer clone in Angular
 
 
 #Deezer UI
